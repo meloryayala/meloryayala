@@ -11,9 +11,10 @@
  
 <h4>🎯Currently I am</h4>
 
-- 👀 looking for a new opportunity 
-- 🛠️ rebuilding my <a href="https://cutt.ly/X0X2NMe">portfolio</a>
-- 💞️ learning JavaScript & React
+- 🛠️ rebuilding a proper portfolio
+- 🎯 building freelance projects
+- 💞️ learning React
+
 
 <h4>🔌 Connect with me</h4>
 

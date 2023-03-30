@@ -12,7 +12,7 @@
 <h4>🎯Currently I am</h4>
 
 - 🛠️ rebuilding a proper portfolio
-- 🎯 building freelance projects
+- 🚀 building freelance projects
 - 💞️ learning React
 
 

@@ -4,7 +4,7 @@
 <br>
 
 
-<p>I have +2 years of professional experience in UX and digital products. 
+<p>I have +3 years of professional experience in UX and digital products. 
   I ended up falling in love with programming by the goal of getting ideas off the paper & Figma, and recently I have sharpened my skills in full-stack development. 
   Working with end-to-end projects, I have the ability to develop a project at any stage.
 <br>

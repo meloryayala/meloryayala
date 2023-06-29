@@ -32,6 +32,11 @@
 <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
 </div>
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meloryayala&border_radius=5)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloryayala&layout=compact)](https://github.com/meloryayala/github-readme-stats)
 <!---
 meloryayala/meloryayala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

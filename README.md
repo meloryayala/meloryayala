@@ -1,6 +1,6 @@
 # Hi, I’m Melory Ayala 👋
 
-<p><b>UX Developer, Product Designer, Creative Thinker & Coffee lover.</b></p>
+<p><b>Frontend Developer, Problem Solver & Coffee lover.</b></p>
 <br>
 
 >Hi there! 👋

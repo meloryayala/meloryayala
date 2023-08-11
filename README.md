@@ -1,40 +1,30 @@
-<h1>Hi, I’m Melory Ayala 👋</h1>
+# Hi, I’m Melory Ayala 👋
 
 <p><b>UX Developer, Product Designer, Creative Thinker & Coffee lover.</b></p>
 <br>
 
-
-<p>I have +3 years of professional experience in UX and digital products. 
-  I ended up falling in love with programming by the goal of getting ideas off the paper & Figma, and recently I have sharpened my skills in full-stack development. 
-  Working with end-to-end projects, I have the ability to develop a project at any stage.
+>Hi there! 👋
+>
+>🌈🎨 As a Frontend Developer with a holistic view of the design and development process, passionate about creating engaging and intuitive digital experiences. With a solid background in UX/UI Design, I have the ability to understand user >needs and translate them into elegant and functional interfaces.
+>
+>💻🕹️ My transition to Software Engineering was a natural progression, as I aspire not only to create exceptional designs but also to bring them to life through efficient and scalable code. This shift has provided me with a comprehensive >understanding of the software development lifecycle and allowed me to collaborate more closely with multidisciplinary teams in my recent projects.
 <br>
  
-<h4>🎯Currently I am</h4>
+##### 🎯 Currently I am
 
-- 🛠️ rebuilding a proper portfolio
-- 🚀 building freelance projects
-- 💞️ learning React
+🛠️ Building a dashboard project, check the progress in the GitHub projects
+<br><br>
 
+## 🧠 Skills
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,tailwind,styledcomponents,jest,azure,git,html,css,figma)](https://skillicons.dev)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meloryayala&border_radius=5)](https://git.io/streak-stats) --->
+<br><br>
 
-<h4>🔌 Connect with me</h4>
+## 🔌 Connect with me
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:melory.ayala@gamil.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/melory-ayala/)
-[<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />](https://www.figma.com/@meloryayala/)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://meloryayala.medium.com/)  
-
-<h4>🧠 Skills</h4>
-<div style= "display: flex">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" style="displays:inline"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
-<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
-</div>
-<br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meloryayala&border_radius=5)](https://git.io/streak-stats)
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloryayala&layout=compact)](https://github.com/meloryayala/github-readme-stats)
 <!---

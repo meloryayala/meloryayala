@@ -12,7 +12,7 @@
  
 ##### 🎯 Currently I am
 
-🛠️ Building a dashboard project, check the progress in the GitHub projects
+🛠️ Building a dashboard project, check the progress in the [GitHub projects](https://github.com/users/meloryayala/projects/1/views/2)
 <br><br>
 
 ## 🧠 Skills

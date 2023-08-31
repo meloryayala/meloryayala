@@ -25,7 +25,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:melory.ayala@gamil.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/melory-ayala/)
 <br><br>
-
+<img src="https://github-readme-stats.vercel.app/api?username=meloryayala&show_icons=true&theme=light" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloryayala&layout=compact)](https://github.com/meloryayala/github-readme-stats)
 <!---
 meloryayala/meloryayala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,9 +5,9 @@
 
 >Hi there! 👋
 >
->🌈🎨 As a Frontend Developer with a holistic view of the design and development process, passionate about creating engaging and intuitive digital experiences. With a solid background in UX/UI Design, I have the ability to understand user >needs and translate them into elegant and functional interfaces.
+>🌈🎨 As a Frontend Developer with a holistic view of the design and development process, passionate about creating engaging and intuitive digital experiences. With a solid background in UX/UI Design, I have the ability to understand user needs and translate them into elegant and functional interfaces.
 >
->💻🕹️ My transition to Software Engineering was a natural progression, as I aspire not only to create exceptional designs but also to bring them to life through efficient and scalable code. This shift has provided me with a comprehensive >understanding of the software development lifecycle and allowed me to collaborate more closely with multidisciplinary teams in my recent projects.
+>💻🕹️ My transition to Software Engineering was a natural progression, as I aspire not only to create exceptional designs but also to bring them to life through efficient and scalable code. This shift has provided me with a comprehensive understanding of the software development lifecycle and allowed me to collaborate more closely with multidisciplinary teams in my recent projects.
 <br>
  
 ##### 🎯 Currently I am

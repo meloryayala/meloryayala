@@ -1,6 +1,6 @@
 # Hi, I’m Melory Ayala 👋
 
-<p><b>Frontend Developer, Problem Solver & Coffee lover.</b></p>
+<p><b>Frontend Developer, Problem Solver & Coffee lover</b></p>
 <br>
 
 >Hi there! 👋

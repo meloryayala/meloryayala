@@ -5,14 +5,16 @@
 
 >Hi there! 👋
 >
->🌈🎨 As a Frontend Developer with a holistic view of the design and development process, passionate about creating engaging and intuitive digital experiences. With a solid background in UX/UI Design, I have the ability to understand user needs and translate them into elegant and functional interfaces.
+>💻🕹️ I am a Frontend Developer with over 3 years of experience in React.js, Next.js, JavaScript and Typescript. I am passionate about taking designs from Figma and bringing them to life through efficient and scalable code.
 >
->💻🕹️ My transition to Software Engineering was a natural progression, as I aspire not only to create exceptional designs but also to bring them to life through efficient and scalable code. This shift has provided me with a comprehensive understanding of the software development lifecycle and allowed me to collaborate more closely with multidisciplinary teams.
+>✒️🎨 Due to my past in UX/UI Design, I love to explore new frontend solutions, UI libraries, methodologies and technologies that simplify the development workflow. I usually contribute during discussions to support stakeholders on strategic decisions.
+>
+>👩‍💻📚 I am always learning something new, reading books and developing personal projects with new stacks.
 <br>
  
 ##### 🎯 Currently I am
 
-🛠️ Building a dashboard project, check the progress in the [GitHub projects](https://github.com/users/meloryayala/projects/1/views/2)
+🛠️ Building a dashboard project for a client, check the progress in the [GitHub projects](https://github.com/users/meloryayala/projects/1/views/2)
 <br><br>
 
 ## 🧠 Skills

@@ -18,7 +18,7 @@
 <br><br>
 
 ## 🧠 Skills
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,tailwind,styledcomponents,jest,azure,git,html,css,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,graphql,tailwind,styledcomponents,jest,azure,git,html,css,figma)](https://skillicons.dev)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meloryayala&border_radius=5)](https://git.io/streak-stats) --->
 <br><br>
 

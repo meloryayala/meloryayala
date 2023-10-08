@@ -26,7 +26,7 @@
 
 |               Testing             |               DevTools/IDE             |              DesignTools          |
 | --------------------------------- | -------------------------------------- | --------------------------------- |
-|  ![My Skills](https://skillicons.dev/icons?i=jest)  |  ![My Skills](https://skillicons.dev/icons?i=idea,git,azure)  |  ![My Skills](https://skillicons.dev/icons?i=figma)  |
+|  ![My Skills](https://skillicons.dev/icons?i=jest)  |  ![My Skills](https://skillicons.dev/icons?i=idea,git,docker,azure)  |  ![My Skills](https://skillicons.dev/icons?i=figma)  |
 
 <br><br>
 

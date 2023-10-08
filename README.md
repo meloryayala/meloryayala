@@ -19,6 +19,7 @@
 
 ## 🧠 Skills
 
+<br>
 |             Top skills            |               Styling             |              Backend & API          |
 | --------------------------------- | --------------------------------- | ----------------------------------- |
 |  ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)  |  ![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,materialui,bootstrap)  |  ![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,nodejs,graphql)  |

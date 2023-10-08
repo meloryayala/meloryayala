@@ -33,8 +33,8 @@
 
 ## ⚡ Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloryayala&layout=pie&theme=tokyonight)](https://github.com/meloryayala/github-readme-stats)
-![Melory's GitHub stats](https://github-readme-stats.vercel.app/api?username=meloryayala&show_icons=true&hide=prs&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloryayala&layout=donut&theme=tokyonight)](https://github.com/meloryayala/github-readme-stats)
+![Melory's GitHub stats](https://github-readme-stats.vercel.app/api?username=meloryayala&show_icons=true&theme=tokyonight)
 <br><br>
 
 ## 🔌 Connect with me

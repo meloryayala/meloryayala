@@ -14,8 +14,7 @@
 >
 >✒️🎨 Due to my past in UX/UI Design, I love to explore new frontend solutions, UI libraries, methodologies and technologies that simplify the development workflow. I usually contribute during discussions to support stakeholders on strategic decisions.
 >
->🛠️ Currently, I am building a dashboard project for a client, check the progress in the [GitHub projects](https://github.com/users/meloryayala/projects/1/views/2) & learning ![My Skills](https://skillicons.dev/icons?i=cs)
-
+>📚 Currently, learning C#/.NET
 <br>
  
 

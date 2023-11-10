@@ -3,18 +3,18 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meloryayala&repo=movies-web-api&theme=tokyonight)](https://github.com/meloryayala/movies-web-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meloryayala&repo=ecommerce-geekstore&theme=tokyonight)](https://github.com/meloryayala/ecommerce-geekstore)
 
-# Hi, I’m Melory Ayala 👋
+# Hi, I’m Melory Ayala
 
 <p><b>Frontend Developer, Problem Solver & Coffee lover</b></p>
 <br>
 
 >Hi there! 👋
 >
->💻🕹️ I am a Frontend Developer with over 3 years of experience in React.js, Next.js and Typescript. I am passionate about taking designs from Figma and bringing them to life through efficient and scalable code.
+> I am a Frontend Developer with over 3 years of experience in React.js, Next.js and Typescript. I am passionate about taking designs from Figma and bringing them to life through efficient and scalable code.
 >
->✒️🎨 Due to my past in UX/UI Design, I love to explore new frontend solutions, UI libraries, methodologies and technologies that simplify the development workflow. I usually contribute during discussions to support stakeholders on strategic decisions.
+> Due to my past in UX/UI Design, I love to explore new frontend solutions, UI libraries, methodologies and technologies that simplify the development workflow. I usually contribute during discussions to support stakeholders on strategic decisions.
 >
->📚 Currently, learning C#/.NET
+> Currently, learning C#/.NET
 <br>
  
 

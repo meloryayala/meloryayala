@@ -3,19 +3,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meloryayala&repo=humorHub-api&theme=tokyonight)](https://github.com/meloryayala/humorHub-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meloryayala&repo=ecommerce-geekstore&theme=tokyonight)](https://github.com/meloryayala/ecommerce-geekstore)
 
-# Hi, I’m Melory Ayala
+# Hi, I’m Melory Ayala!! 👋
 
-<p><b>Frontend Developer, Problem Solver & Coffee lover</b></p>
-<br>
+<p><b>Full Stack developer && UX/UI</b></p>
 
->Hi there! 👋
->
-> I am a Frontend Developer with over 3 years of experience in React.js, Next.js and Typescript. I am passionate about taking designs from Figma and bringing them to life through efficient and scalable code.
->
-> Due to my past in UX/UI Design, I love to explore new frontend solutions, UI libraries, methodologies and technologies that simplify the development workflow. I usually contribute during discussions to support stakeholders on strategic decisions.
->
-> Currently, learning C#/.NET
-<br>
+* 🌍 Based in Europe, born in Brazil
+* 🛠️ Main stacks -> React & C#/.NET
+* 💼 Currently working at Codery GmbH, IT consulting
+* 🏔️ I am a Mountain biker, gamer and karaoke singer
+
+<br><br>
+
  
 
 ## 🧠 Skills

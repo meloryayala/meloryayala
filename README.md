@@ -19,12 +19,12 @@
 
 |             Top skills            |               Styling             |              Backend & API          |
 | --------------------------------- | --------------------------------- | ----------------------------------- |
-|  ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)  |  ![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,materialui,bootstrap)  |  ![My Skills](https://skillicons.dev/icons?i=dotnet,cs,postgres,prisma,mongodb,supabase)  |
+|  ![My Skills](https://skillicons.dev/icons?i=angular,ts,dotnet)  |  ![My Skills](https://skillicons.dev/icons?i=sass,tailwind)  |  ![My Skills](https://skillicons.dev/icons?i=dotnet,cs,postgres)  |
 <br>
 
-|               Testing             |               DevTools/IDE             |              DesignTools          |
-| --------------------------------- | -------------------------------------- | --------------------------------- |
-|  ![My Skills](https://skillicons.dev/icons?i=jest)  |  ![My Skills](https://skillicons.dev/icons?i=idea,git,docker,azure)  |  ![My Skills](https://skillicons.dev/icons?i=figma)  |
+|               DevTools/IDE             |              DesignTools          |
+| -------------------------------------- | --------------------------------- |
+|  ![My Skills](https://skillicons.dev/icons?i=idea,git,azure)  |  ![My Skills](https://skillicons.dev/icons?i=figma)  |
 
 <br><br>
 

@@ -9,8 +9,6 @@
 
 * 🌍 Based in Europe, born in Brazil
 * 🛠️ Main stacks -> Angular | C#/.NET | React
-* 💼 Currently working at Codery GmbH, IT consulting
-* 🏔️ I am a Mountain biker, gamer and karaoke singer
 
 <br><br>
 

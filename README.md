@@ -1,7 +1,9 @@
+<!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meloryayala&repo=ecommerce-admin-dashboard&theme=tokyonight)](https://github.com/meloryayala/ecommerce-admin-dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meloryayala&repo=codery-website&theme=tokyonight)](https://github.com/meloryayala/codery-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meloryayala&repo=humorHub-api&theme=tokyonight)](https://github.com/meloryayala/humorHub-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meloryayala&repo=ecommerce-geekstore&theme=tokyonight)](https://github.com/meloryayala/ecommerce-geekstore)
+ -->
 
 # Hi, I’m Melory Ayala!! 👋
 

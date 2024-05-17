@@ -12,7 +12,7 @@
 * 🌍 Based in Europe, born in Brazil
 * 🛠️ Main stacks -> Angular | C#/.NET | React
 
-<br><br>
+<br>
 
  
 
